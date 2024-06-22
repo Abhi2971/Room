@@ -1,7 +1,7 @@
 # 1 may to 30 may
 
 R_rent=8000
-l_bill=2900
+l_bill=2322
 G_bill=0
 may_dict={
     "Abhi":0,

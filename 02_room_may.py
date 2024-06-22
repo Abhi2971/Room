@@ -1,7 +1,9 @@
+# 1apr to 30 apr
+
 # Rent and bill amounts
 R_rent = 8000
-l_bill = 2276
-G_bill = 1000
+l_bill = 3306
+G_bill = 0
 
 # Initial dictionary with members and their respective shares
 may_dict = {
